@@ -1,5 +1,5 @@
 # incompleteness
-This is the replication package for our work submitted to IEEE Transactions on Software Engineering: Weifeng Pan, Wei Wu, Khouloud Gaaloul, Hua Ming, Bailin Yang. XXXXXXXX. IEEE Transactions on Software Engineering, 2023, XX(XX): XXXX-XXXX. [[PDF](https://ieeexplore.ieee.org/)]
+This is the replication package for our work submitted to IEEE Transactions on Software Engineering: Weifeng Pan, Hua Ming, Khouloud Gaaloul, Wei Wu, Bailin Yang. XXXXXXXX. IEEE Transactions on Software Engineering, 2024, XX(XX): XXXX-XXXX. [[PDF](https://ieeexplore.ieee.org/)]
 
 # Code
 This directory will contain the source code of our implementation. It is now empty. The source code will be available once our work is officially accepted.
@@ -19,4 +19,4 @@ This directory contains the results that we obtained in the experiments.
 # Cite our work
 If you use our data set or tool, please cite our work.
 
-Weifeng Pan, Wei Wu, Khouloud Gaaloul, Hua Ming, Bailin Yang. XXXXXXXX. IEEE Transactions on Software Engineering, 2023, XX(XX): XXXX-XXXX. [[PDF](https://ieeexplore.ieee.org/)]
+Weifeng Pan, Hua Ming, Khouloud Gaaloul, Wei Wu, Bailin Yang. XXXXXXXX. IEEE Transactions on Software Engineering, 2024, XX(XX): XXXX-XXXX. [[PDF](https://ieeexplore.ieee.org/)]
